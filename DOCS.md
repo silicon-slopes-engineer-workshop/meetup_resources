@@ -2,6 +2,8 @@
 
 ## Purpose and Goals 
 Master the Craft of Software Engineering - Level Up Each Week! With hands on Pair Coding!
+- extended : Write quality("clean"), performant, scalable and responsive, software that fulfills the spec and provides great user experiences.  Basically be a "world class engineer."
+
 
 Principles:
 KEYS to Focus on: 
