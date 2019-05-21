@@ -55,3 +55,7 @@ Example: Start -
 
 
 ^subject to flexibility/change
+
+Repos: Links - must come to class at least once for invite etc
+MeetUp: Group link 
+UtahJS: Slack Channel #meetup-ssew
