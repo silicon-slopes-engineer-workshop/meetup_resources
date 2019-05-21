@@ -3,6 +3,13 @@
 ## Purpose and Goals 
 Master the Craft of Software Engineering - Level Up Each Week! With hands on Pair Coding!
 
+Principles:
+KEYS to Focus on: 
+* Technical communication 
+* Master programming fundamentals, pay more attention to architecture than to programming. 
+* Master Style: Patterns: Best practices 
+* Become a creative, excellent  problem solver -  aka improve analytical/logic/thinking skills 
+“Programming languages, tools, and methodologies come and go. That’s why it pays to get as much experience as you can with as many languages and frameworks as possible. Focus on the programming fundamentals, because the basics never change; pay more attention to architecture than to programming. If you feel certain that there’s only one right way to do something, it’s probably time for a reality check. Dogma can hamper your ability to learn new things, and make you slow to adapt to change.”
 
 ## Expectations 
 
